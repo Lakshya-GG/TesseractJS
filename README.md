@@ -1,0 +1,2 @@
+# TesseractJS
+OCR using TesseractJS
